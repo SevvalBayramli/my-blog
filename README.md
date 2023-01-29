@@ -1,1 +1,1 @@
-# MyBlog
+# my-blog
